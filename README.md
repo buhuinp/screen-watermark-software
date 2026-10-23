@@ -133,4 +133,4 @@ app/build/outputs/apk/debug/app-debug.apk
 
 ## 许可证
 
-本项目未附带开源许可证。如需使用、修改或分发，请先联系作者。
+MIT
